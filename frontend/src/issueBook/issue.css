@@ -1,0 +1,22 @@
+.issue-book{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    color: #000;
+}
+
+.form{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.form-style{
+    margin: 20px 30px;
+    font-size: 1.3rem;
+    position: relative;
+    left: 230px;
+}
